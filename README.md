@@ -27,7 +27,7 @@ We will make source videos, encoded sequences, subjective and objective scores a
      - **Configuration**:
        - Sublayer 1 step width (SW1): 32767.
        - Sublayer 2 step width (SW2): Computed based on the formula in [MPEG/m56330](https://dms.mpeg.expert/doc_end_user/current_document.php?id=78233&id_meeting=0) (Annex 2).
-   - **url**: (https://git.mpeg.expert/MPEG/Video/LCEVC/LTM)[https://git.mpeg.expert/MPEG/Video/LCEVC/LTM]
+   - **url**: [https://git.mpeg.expert/MPEG/Video/LCEVC/LTM](https://git.mpeg.expert/MPEG/Video/LCEVC/LTM)
 
 4) **AVS EEM (v6.1)**
    - **Configuration**: intra-period = -1 (only the first frame as I-frame, remaining as P-frames).
@@ -55,7 +55,7 @@ The detailed Bitrate values of encoded sequences are shown in the below table.
 
 ## RD-Plot
 
-We demonstrate the RD-Plots comparison on different codec.
+We demonstrate the RD-Plots comparison on different codecs.
 
 | ![Chimera2](https://github.com/blindwang/ZJUHDR-dataset/blob/main/RD-plot/Chimera2_MOS_RD-plot.png) | ![Chimera3](https://github.com/blindwang/ZJUHDR-dataset/blob/main/RD-plot/Chimera3_MOS_RD-plot.png) | ![Chimera4](https://github.com/blindwang/ZJUHDR-dataset/blob/main/RD-plot/Chimera4_MOS_RD-plot.png) | ![Smithy1](https://github.com/blindwang/ZJUHDR-dataset/blob/main/RD-plot/Smithy1_MOS_RD-plot.png) |
 | --- | --- | --- | --- |
