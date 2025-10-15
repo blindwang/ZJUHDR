@@ -1,1 +1,1 @@
-We show the RD-Plots on different codec.
+We demonstrate the RD-Plots comparison on different codec.
