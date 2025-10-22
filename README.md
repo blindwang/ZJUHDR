@@ -2,7 +2,9 @@
 
 Eight HDR 10-bit video sequences were encoded with six different codecs, and over 4,800 quality judgments were collected on 178 compressed videos. Based on subjective scores, we evaluated five full-reference objective quality models (PSNR, VMAF, SSIM, ColorVideoVDP, and HDRMAX+VMAF). We observed inadequate generalization capability across codecs, with performance on learning-based codecs generally lower than that on traditional ones. Moreover, HDR metrics have not demonstrated significant advantages over the SDR metrics, highlighting the need for further research to advance HDR metric development.
 
-We will make source videos, encoded sequences, subjective and objective scores available soon.
+## Resources
+
+We have made source videos, encoded sequences, subjective and objective scores available at [BaiduYunDisk](https://pan.baidu.com/s/1rZ5CUpNfCg5m72D44yfcsw?pwd=ycrh).
 
 ## Encoding Configuration
 
