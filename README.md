@@ -1,7 +1,7 @@
 # ZJUHDR-dataset
 
 Eight HDR 10-bit video sequences were encoded with six different codecs (AVS3, VVC, LCEVC, AVS-EEM, AlphaVC-P, NNVC), and over 4,800 quality judgments were collected on 178 compressed videos. Based on subjective scores, we evaluated five full-reference objective quality models (PSNR, VMAF, SSIM, ColorVideoVDP, and HDRMAX+VMAF). We observed inadequate generalization capability across codecs, with performance on learning-based codecs generally lower than that on traditional ones. Moreover, HDR metrics have not demonstrated significant advantages over the SDR metrics, highlighting the need for further research to advance HDR metric development.
-
+![Snapshots](https://github.com/blindwang/ZJUHDR/blob/main/Assets/Snapshot.png)
 ## Resources
 
 We have made source videos, encoded sequences, subjective and objective scores available at [BaiduYunDisk](https://pan.baidu.com/s/1rZ5CUpNfCg5m72D44yfcsw?pwd=ycrh).
@@ -55,11 +55,11 @@ Subjective and objective scores are shown in [ZJUHDR-MOS_CI.csv](https://github.
 
 The detailed Bitrate values of encoded sequences are shown in the below table.
 
-![bitrate_values.png](https://github.com/blindwang/ZJUHDR-dataset/blob/main/bitrate_values.png)
+![bitrate_values.png](https://github.com/blindwang/ZJUHDR-dataset/blob/main/Assets/bitrate_values.png)
 
 ## Correlation results
 
-![Correlation_results](https://github.com/blindwang/ZJUHDR/blob/main/Correlation_results.png)
+![Correlation_results](https://github.com/blindwang/ZJUHDR/blob/main/Assets/Correlation_results.png)
 
 ## RD-Plot
 
